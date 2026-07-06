@@ -1,0 +1,22 @@
+{
+  "wheel_id": 47,
+  "slug": "bathroomrenovationcamberwell-102",
+  "project": "bathroom-renovation-camberwell-costs-b-102",
+  "parent_t1_ref": "bathroomrenovationcamberwell-001",
+  "node_role": "feeder",
+  "money_target": "bathroomrenovationcamberwell.com.au",
+  "primary_kw": "bathroom renovation camberwell costs",
+  "intended_url": "https://bathroom-renovation-camberwell-costs-b-102.onrender.com/",
+  "links": [
+    {
+      "target_url": "https://bathroom-renovation-camberwell-b-150.s3.ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "bathroom renovation camberwell",
+      "rel": "follow"
+    },
+    {
+      "target_url": "https://bathroom-renovation-camberwell-b-150.s3.ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "bathroom renovation camberwell",
+      "rel": "follow"
+    }
+  ]
+}
