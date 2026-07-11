@@ -6,15 +6,15 @@
   "node_role": "feeder",
   "money_target": "bathroomrenovationcamberwell.com.au",
   "primary_kw": "bathroom renovation camberwell costs",
-  "intended_url": "https://bathroom-renovation-camberwell-costs-b-102.onrender.com/",
+  "intended_url": "https://bathroom-renovation-camberwell-costs-b-102.vercel.app/",
   "links": [
     {
-      "target_url": "https://bathroom-renovation-camberwell-b-150.s3.ap-southeast-2.amazonaws.com/index.html",
+      "target_url": "https://bathroom-renovation-camberwell-b-151.surge.sh/",
       "anchor": "bathroom renovation camberwell",
       "rel": "follow"
     },
     {
-      "target_url": "https://bathroom-renovation-camberwell-b-150.s3.ap-southeast-2.amazonaws.com/index.html",
+      "target_url": "https://bathroom-renovation-camberwell-b-151.surge.sh/",
       "anchor": "bathroom renovation camberwell",
       "rel": "follow"
     }

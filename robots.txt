@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://bathroom-renovation-camberwell-costs-b-102.onrender.com/sitemap.xml
+Sitemap: https://bathroom-renovation-camberwell-costs-b-102.vercel.app/sitemap.xml
